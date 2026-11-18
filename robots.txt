@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiyusama666.github.io/god-reform/sitemap.xml
